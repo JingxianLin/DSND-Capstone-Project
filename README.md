@@ -8,6 +8,7 @@ Tools:
 4. matplotlib
 
 Data source:
+
 The human (LFW) dataset can be downloaded from here: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
 
 The dog dataset can be downloaded from here: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
@@ -22,6 +23,7 @@ File Descriptions
 2. dog_app.ipynb contains detailed EDA steps
 
 Summary
+
 Several steps are taken in this project:
 · Import Datasets
 · Exploratory Data Analysis
